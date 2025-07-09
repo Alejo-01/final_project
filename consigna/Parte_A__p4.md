@@ -6,7 +6,7 @@ data = pd.read_csv("data/ohe_customer_dataset.csv", sep=",")
 
 **Aclaración:** Podrían analizar todas las columnas, pero en este caso nos parece relevante solo analizar algunas columnas:
 
-```
+
 filter_data = data[["orderState_failed", "orderState_fulfilled", "orderState_pending", "transactionFailed", "fraudulent", "customerIPAddressSimplified_digits_and_letters"]].copy()
 ```
 
