@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/ASUS/Documents/GitHub/final_project/Parte_A/mlruns/221164997264950799/models/m-ff5647b957da4235be26ad532b9f1811/artifacts
+creation_timestamp: 1752179693225
+experiment_id: '221164997264950799'
+last_updated_timestamp: 1752179708455
+model_id: m-ff5647b957da4235be26ad532b9f1811
+model_type: null
+name: modelo_proyecto_final
+source_run_id: 759468802f524b3f8a482693b6a06cfd
+status: 2
+status_message: null
